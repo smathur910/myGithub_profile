@@ -1,10 +1,10 @@
 [![Banner](https://media-exp3.licdn.com/dms/image/C5616AQHFGjwtT9Sy5A/profile-displaybackgroundimage-shrink_350_1400/0/1624203458791?e=1631145600&v=beta&t=4mM83qbRC6-ow6cTJmROmzrxUfElXO7ragZdsbd-W5g "Banner")](https://www.imsumit.me "Banner")
 
 ## Hi, I am Sumit Mathur
-:tw-1f600: Web  Developer & Designer :tw-1f600:
-###### :tw-1f505: Freelancer :tw-1f505: Foodie :tw-1f505: Gamer
+😀 Web  Developer & Designer 😀 
+###### ⭐ Freelancer  ⭐  Foodie ⭐  Gamer
 ------------
-### About Me :tw-1f60e:
+### About Me 😎
 > Innovative Front End Developer with experience in building and maintaining responsive websites. Proficient in HTML, CSS, jQuery, JavaScript and PHP. Passionate about ui designing and possesses a working knowledge of Adobe Photoshop and Illustrator
 
 ------------
